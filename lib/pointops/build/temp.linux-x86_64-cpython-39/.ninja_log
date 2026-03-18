@@ -1,0 +1,20 @@
+# ninja log v5
+0	27024	1751036080996028561	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/ballquery/ballquery_cuda_kernel.o	5c3dde804f276188
+0	27251	1751036081221032415	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping_int/grouping_int_cuda_kernel.o	c32033743f178b49
+1	28010	1751036081984045483	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery/knnquery_cuda_kernel.o	b4532fa974443f0c
+1	28694	1751036082663057112	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/interpolation/interpolation_cuda_kernel.o	5149f2c49e24dd80
+1	29259	1751036083235066907	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery_heap/knnquery_heap_cuda.o	3dc02c4c0b7e022
+0	30831	1751036084802093738	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/ballquery/ballquery_cuda.o	4ca0d9a400424b32
+2	31139	1751036085112099045	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/sampling/sampling_cuda.o	b56b6e1de527d5f3
+1	31419	1751036085393103856	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery/knnquery_cuda.o	ba71a8c101d1f695
+1	32568	1751036086542123524	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping/grouping_cuda.o	462f60b6ec1db9fa
+2	32684	1751036086656125475	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/labelstat/labelstat_cuda.o	dbe88e14f9988a3a
+1	32725	1751036086694126126	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping/grouping_cuda_kernel.o	2daee3b95cac5d62
+1	32861	1751036086838128591	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/interpolation/interpolation_cuda.o	cf9c6bab306d5067
+1	32864	1751036086842128659	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping_int/grouping_int_cuda.o	14cdad11b6652ada
+0	32972	1751036086947130456	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/featuredistribute/featuredistribute_cuda.o	6ef2f47ec7f8e695
+2	33313	1751036087285136241	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery_heap/knnquery_heap_cuda_kernel.o	c47e2c259119d31a
+1	33357	1751036087332137045	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/featuredistribute/featuredistribute_cuda_kernel.o	4c4fc45deff18384
+2	33621	1751036087597141581	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/labelstat/labelstat_cuda_kernel.o	eedccfd4c9d0b9c1
+2	34173	1751036088147150993	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/sampling/sampling_cuda_kernel.o	8d390bd7f11b96d1
+2	38036	1751036092009217067	/home/danny/WJJ/paconv_jscc/lib/pointops/build/temp.linux-x86_64-cpython-39/src/pointops_api.o	31b1b48744e35931
