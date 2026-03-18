@@ -327,7 +327,7 @@ if __name__ == '__main__':
         seed_everything(args.seed)
         os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
 
-        checkpoint_path ='Checkpoints/(Rayleigh)Band_and_SNR_adaptive/180.pth'
+        checkpoint_path ='Checkpoints/AWGN_Band_and_SNR_adaptive/best.pth'
         checkpoint = torch.load(checkpoint_path)
         psnr_list = []
         
